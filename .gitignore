@@ -1,0 +1,39 @@
+# Build directories
+build/
+*.build/
+*.autosave
+
+# Binaries
+*.exe
+*.app
+*.dll
+*.so
+*.dylib
+
+# Qt specific
+moc_*
+qrc_*
+ui_*
+*.qmlc
+*.jom
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.qtcreator/
+*.pro.user
+*.pro.user.*
+CMakeLists.txt.user*
+
+# Logs
+*.log
+*.tmp
+
+# Backup files
+*.backup
+
+# Resources
+*.rc
